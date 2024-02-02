@@ -17,6 +17,8 @@ dependencies:
   - ipyvolume
   - plotly==5.16.1
   - numpy==1.25.2
+  - folium
+  - requests
 
   - pip:
     - voila==0.5.5

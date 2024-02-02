@@ -10,3 +10,6 @@ pinned: true
 # My notebooks deployed on Hugging Face Spaces
 
 -> Using Voilà project [documentation](https://github.com/voila-dashboards/voila-huggingface?tab=readme-ov-file)
+
+Notebooks:
+- Lethal attacks against land & environmental defenders (2012 to 2021) -> [link](https://eleonore9-notebooks.hf.space/voila/render/land-defenders.ipynb)
